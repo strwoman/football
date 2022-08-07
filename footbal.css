@@ -1,0 +1,64 @@
+body{
+    background-image: url(./images/football_b.png);
+    background-repeat: repeat-y;
+    background-position: right;
+    
+
+}
+.header {
+    padding-top: 20px;
+    background-color: lightskyblue;
+    text-align: center;
+    font-family: fantasy;
+    font: weight 400px;
+    font-size: 22px;
+    color: blue;
+    height: 43px;
+    margin-top: 0px;
+    }
+
+
+
+.conteinermenu {
+    word-spacing: 6px;
+    
+    width:20% ;
+    float: left;
+    background-color: gold;
+    text-align: left;
+    float: left;
+    font-size: 16px;
+    color: black;
+}
+.contant {
+    width: 75%;
+    float: right;
+    
+    margin-top: 0px;
+   
+    border: solid transparent 1px;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    
+    
+}
+.imgcontent{
+     padding: 15px; 
+     padding-top: 10px;
+     padding-right: 10px;
+     float: left;
+}
+.conteiner {
+    padding-top: 20px;
+    background-color: lightskyblue;
+    text-align: center;
+    font-family: fantasy;
+    font: weight 400px;
+    font-size: 22px;
+    color: blue;
+    height: 43px;
+    margin-top: 0px;
+    display: cover;
+    clear: both;
+}
