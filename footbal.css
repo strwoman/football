@@ -1,10 +1,10 @@
-body{
+.maket {
     background-image: url(./images/football_b.png);
     background-repeat: repeat-y;
     background-position: right;
-    
-
+    border: 1px solid blue;
 }
+
 .header {
     padding-top: 20px;
     background-color: lightskyblue;
@@ -15,39 +15,50 @@ body{
     color: blue;
     height: 43px;
     margin-top: 0px;
-    }
-
-
+}
 
 .conteinermenu {
-    word-spacing: 6px;
-    
-    width:20% ;
+    /* word-spacing: 6px; */
+    width: 170px;
     float: left;
     background-color: gold;
     text-align: left;
-    float: left;
     font-size: 16px;
     color: black;
 }
+
+ul {
+    padding-left: 25px;
+}
+
+ul {
+    width: 10%;
+}
+
 .contant {
     width: 75%;
-    float: right;
-    
+    float: left;
     margin-top: 0px;
-   
-    border: solid transparent 1px;
+    border: solid pink 1px;
     text-align: center;
     font-size: 16px;
     color: black;
-    
-    
+    padding-left: 30px;
+    padding-right: 20px;
+    margin-left: -10px;
 }
-.imgcontent{
-     padding: 15px; 
-     padding-top: 10px;
-     padding-right: 10px;
-     float: left;
+
+.imgcontent {
+    padding: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    float: left;
+    padding-left: 0px;
+
+}
+.pudtoj {
+    clear: both;
+
 }
 .conteiner {
     padding-top: 20px;
@@ -60,5 +71,4 @@ body{
     height: 43px;
     margin-top: 0px;
     display: cover;
-    clear: both;
 }
